@@ -22,7 +22,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -37,8 +37,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 323419678;
-			PBXWorkspaceStateSaveDate = 323419678;
+			PBXPerProjectTemplateStateSaveDate = 323421719;
+			PBXWorkspaceStateSaveDate = 323421719;
 		};
 		sourceControlManager = E4CCF1C41346FE2D008327B4 /* Source Control */;
 		userBuildSettings = {
@@ -60,6 +60,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
